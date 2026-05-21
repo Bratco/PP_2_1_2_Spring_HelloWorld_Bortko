@@ -18,6 +18,6 @@ public class App {
         System.out.println("helloWorld " + helloEqual);
         System.out.println("Cat " + catEqual);
 
-        ((AnnotationConfigApplicationContext) applicationContext).close();
+
     }
 }
